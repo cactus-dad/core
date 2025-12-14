@@ -1,0 +1,6 @@
+{
+  "domain": "ext_router",
+  "name": "ext router test",
+  "dependencies": ["mqtt"],
+  "iot_class": "local_polling"
+}
